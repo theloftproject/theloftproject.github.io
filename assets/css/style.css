@@ -125,7 +125,7 @@ h6 {
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
-  z-index: 996;
+  z-index: 1000;
 }
 
 #topbar.topbar-scrolled {
