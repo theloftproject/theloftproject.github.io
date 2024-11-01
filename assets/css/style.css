@@ -9,9 +9,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body *:not(.myDiv) {
-        display: none;
-    }
+body {
+  visibility: hidden !important;  
+}
 
 body {
   font-family: "Open Sans", sans-serif;
